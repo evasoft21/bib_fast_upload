@@ -35,7 +35,14 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+code_bare
+upload_befor_trt
+upload_even
+upload_odd
+upload_origin
+upload_trt
+env
+my-project-env
 
 # Dependency directories
 node_modules/
